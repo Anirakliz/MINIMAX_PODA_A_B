@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1685685780 source:c:\users\amirak\desktop\anirak_ia\nim_poda_alfa_beta\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+	<cmath>
+	<limits>
+	<ctime>
+	<cstdlib>
+
